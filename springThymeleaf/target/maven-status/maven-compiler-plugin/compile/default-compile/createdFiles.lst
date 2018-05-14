@@ -1,0 +1,6 @@
+com\springboot\controller\JavaController.class
+com\springboot\model\Customer.class
+com\springboot\service\CustomerService.class
+com\springboot\service\CustomerServiceImp.class
+com\springboot\repository\CustomerRepository.class
+com\springboot\SpringThymeleafApplication.class
